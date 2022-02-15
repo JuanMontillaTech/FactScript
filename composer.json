@@ -1,7 +1,5 @@
 {
     "require": {
-        "bcmath": "*",
-        "gd": "*",
-        "mbstring": "*"
+        "php": "^8.0.0"
     }
 }
