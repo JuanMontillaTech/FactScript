@@ -1,7 +1,0 @@
-{
-    "require": {
-        "bcmath": "*",
-        "gd": "*",
-        "mbstring": "*"
-    }
-}
