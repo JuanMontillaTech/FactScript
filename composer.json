@@ -1,4 +1,4 @@
 "require": {
     "ext-intl": "*",
-    "ext-gd": "*"
+    "bcmath": "*"
 }
