@@ -1,5 +1,4 @@
-{
-    "require": {
-        "php": "^8.0.0"
-    }
+"require": {
+    "ext-intl": "*",
+    "ext-gd": "*"
 }
