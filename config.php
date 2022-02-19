@@ -1,6 +1,6 @@
 <?php
 define('FS_COOKIES_EXPIRE', 604800);
-define('FS_ROUTE', '/HCCS002');
+define('FS_ROUTE', '/HCCS001');
 define('FS_DB_FOREIGN_KEYS', true);
 define('FS_DB_TYPE_CHECK', true);
 define('FS_MYSQL_CHARSET', 'utf8');
